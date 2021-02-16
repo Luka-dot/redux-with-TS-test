@@ -1,0 +1,17 @@
+.form {
+    font-weight: bolder;
+}
+
+.list {
+    font-size: medium;
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+button {
+    background-color: darkblue;
+    color: aliceblue;
+    font-weight: bolder;
+    margin-left: 10px;
+    border-radius: 5px;
+}
